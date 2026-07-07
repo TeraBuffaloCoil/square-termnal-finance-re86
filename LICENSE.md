@@ -1,4 +1,4 @@
-# 
+# Square Terminal is the all-in-one payment solution for businesses: Accept payments, manage inventory, and track sales.
 
 
 
